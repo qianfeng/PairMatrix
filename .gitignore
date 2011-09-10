@@ -1,0 +1,8 @@
+/*.iml
+/.idea
+/.sass-cache
+/local-grails-*
+/stacktrace.log
+/target
+/web-app/js/*.js
+/out
