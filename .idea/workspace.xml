@@ -73,67 +73,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="show.gsp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="showPersonSpec.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/functional/pairmatrix/person/showPersonSpec.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="13" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowPersonPage.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/functional/pairmatrix/functionaltests/pages/ShowPersonPage.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="1" selection-start="304" selection-end="304" vertical-scroll-proportion="0.2962298">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/person/show.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="61" selection-start="512" selection-end="512" vertical-scroll-proportion="0.70408165">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="23" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.gsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="38" selection-start="428" selection-end="434" vertical-scroll-proportion="-8.125">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create.gsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/person/create.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="24" selection-start="171" selection-end="177" vertical-scroll-proportion="-2.5531914">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/pairmatrix/Person.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="12" selection-start="27" selection-end="33" vertical-scroll-proportion="-1.0">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonController.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/pairmatrix/person/PersonController.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="19" selection-start="108" selection-end="118" vertical-scroll-proportion="-5.2173915">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserControllerSpec.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/unit/pairmatrix/person/UserControllerSpec.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="16" selection-start="215" selection-end="215" vertical-scroll-proportion="-5.869565">
+            <state line="14" column="17" selection-start="260" selection-end="260" vertical-scroll-proportion="-4.4680853">
               <folding />
             </state>
           </provider>
@@ -157,9 +118,6 @@
         <option value="$PROJECT_DIR$/grails-app/controllers/pairmatrix/PersonController.groovy" />
         <option value="$PROJECT_DIR$/test/unit/pairmatrix/person/person/PersonControllerSpec.groovy" />
         <option value="$PROJECT_DIR$/test/unit/pairmatrix/person/PersonControllerSpec.java" />
-        <option value="$PROJECT_DIR$/test/unit/pairmatrix/person/PersonControllerSpec.groovy" />
-        <option value="$PROJECT_DIR$/test/functional/pairmatrix/functionaltests/pages/ShowPersonPage.groovy" />
-        <option value="$PROJECT_DIR$/test/functional/pairmatrix/person/showPersonSpec.groovy" />
         <option value="$PROJECT_DIR$/web-app/css/main.css" />
         <option value="$PROJECT_DIR$/test/unit/pairmatrix/person/UserControllerSpec.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/pairmatrix/person/UserController.groovy" />
@@ -169,6 +127,9 @@
         <option value="$PROJECT_DIR$/grails-app/views/person/create.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/person/show.gsp" />
+        <option value="$PROJECT_DIR$/test/unit/pairmatrix/person/PersonControllerSpec.groovy" />
+        <option value="$PROJECT_DIR$/test/functional/pairmatrix/person/showPersonSpec.groovy" />
+        <option value="$PROJECT_DIR$/test/functional/pairmatrix/functionaltests/pages/ShowPersonPage.groovy" />
       </list>
     </option>
   </component>
@@ -540,8 +501,8 @@
       <recent name="pairmatrix" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PersonControllerSpec.should show all persons">
-    <configuration default="false" name="UserControllerSpec.should show all persons" type="JUnit" factoryName="JUnit" temporary="true">
+  <component name="RunManager" selected="JUnit.PersonControllerSpec">
+    <configuration default="false" name="PersonControllerSpec.should show all persons" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false">
         <pattern>
           <option name="PATTERN" value="pairmatrix.person.*" />
@@ -552,9 +513,37 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="pairmatrix.person" />
-      <option name="MAIN_CLASS_NAME" value="pairmatrix.person.UserControllerSpec" />
+      <option name="MAIN_CLASS_NAME" value="pairmatrix.person.PersonControllerSpec" />
       <option name="METHOD_NAME" value="should show all persons" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PersonControllerSpec" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false">
+        <pattern>
+          <option name="PATTERN" value="pairmatrix.person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="PairMatrix" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="pairmatrix.person" />
+      <option name="MAIN_CLASS_NAME" value="pairmatrix.person.PersonControllerSpec" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -713,9 +702,10 @@
         <option name="Make" enabled="false" />
       </method>
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Grails.Grails:PairMatrix" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.PersonControllerSpec.should show all persons" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PersonControllerSpec" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -867,23 +857,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/functional/pairmatrix/functionaltests/pages/ShowPersonPage.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="41" selection-start="193" selection-end="193" vertical-scroll-proportion="0.19553073">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.35008976">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/functional/pairmatrix/person/showPersonSpec.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="30" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -930,30 +906,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/unit/pairmatrix/person/UserControllerSpec.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="215" selection-end="215" vertical-scroll-proportion="-5.869565">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/pairmatrix/Person.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12" selection-start="27" selection-end="33" vertical-scroll-proportion="-1.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/pairmatrix/person/PersonController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="19" selection-start="108" selection-end="118" vertical-scroll-proportion="-5.2173915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/person/create.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="24" selection-start="171" selection-end="177" vertical-scroll-proportion="-2.5531914">
@@ -968,9 +920,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/pairmatrix/person/PersonControllerSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="483" selection-end="483" vertical-scroll-proportion="0.46692607">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/pairmatrix/person/PersonController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="24" selection-start="78" selection-end="78" vertical-scroll-proportion="-3.2608695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/pairmatrix/Person.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="-2.3333333">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/person/show.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="61" selection-start="512" selection-end="512" vertical-scroll-proportion="0.70408165">
+        <state line="14" column="17" selection-start="260" selection-end="260" vertical-scroll-proportion="-4.4680853">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/functional/pairmatrix/person/showPersonSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/functional/pairmatrix/functionaltests/pages/ShowPersonPage.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="304" selection-end="304" vertical-scroll-proportion="0.2962298">
           <folding />
         </state>
       </provider>

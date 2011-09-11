@@ -11,6 +11,7 @@ class showPersonSpec extends PairMatrixGebSpec {
     def 'should show all persons when show person is clicked'() {
         setup:
         new Person(personId: "1001", name: "FengQian").save(flush: true)
+        new Person(personId: "1002", name: "XieJia").save(flush: true)
 
         when:
         to HomePage
