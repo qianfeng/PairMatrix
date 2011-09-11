@@ -11,7 +11,11 @@
 <body>
 <div id="content-wrapper">
     <div id="sidebar">
-        <li><g:link name="showPersonList" id="person">Person</g:link></li>
+        <li><g:link controller="person" action="show" name="showPersonList">show person</g:link></li>
+        </br></br>
+        <li><g:link controller="person" action="create" name="createPerson">create person</g:link></li>
+        </br></br>
+        <li><g:link controller="pairmatrix" action="create" name="createPairMatrix">create pair matrix</g:link></li>
     </div>
 
     <div id="main-content"><g:layoutBody/></div>

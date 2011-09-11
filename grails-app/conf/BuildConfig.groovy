@@ -10,6 +10,7 @@ grails.project.dependency.resolution = {
         grailsPlugins()
         grailsHome()
         grailsCentral()
+        mavenCentral()
     }
     dependencies {
         test "org.codehaus.geb:geb-core:0.6.0"
